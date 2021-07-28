@@ -1,13 +1,13 @@
-# NAZIV PROIZVODA Arduino library
+# RF433 Transmitter Receiver Arduino library
 
-[![Compile Sketches](http://github-actions.40ants.com/e-radionicacom/Soldered-Generic-Arduino-Library/matrix.svg?branch=dev&only=Compile%20Sketches)](https://github.com/e-radionicacom/Soldered-Generic-Arduino-Library/actions/workflows/compile_test.yml)
-[![Make docs and publish to GitHub Pages](https://github.com/e-radionicacom/Soldered-Generic-Arduino-Library/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/e-radionicacom/Soldered-Generic-Arduino-Library/actions/workflows/make_docs.yml)
+[![Compile Sketches](http://github-actions.40ants.com/e-radionicacom/Soldered-RF433-Arduino-Library/matrix.svg?branch=dev&only=Compile%20Sketches)](https://github.com/e-radionicacom/Soldered-RF433-Arduino-Library/actions/workflows/compile_test.yml)
+[![Make docs and publish to GitHub Pages](https://github.com/e-radionicacom/Soldered-RF433-Arduino-Library/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/e-radionicacom/Soldered-RF433-Arduino-Library/actions/workflows/make_docs.yml)
 
-| ![Product name](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
+| ![RF433 Transmitter Receiver](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :---------------------------------------------------------------------------------------------: |
-| [NAZIV PROIZVODA](https://www.solde.red/SKU)                                                            |
+| [RF433 Transmitter Receiver](https://www.solde.red/SKU)                                                            |
 
-OPIS PROIZVODA + LINK NA [easyC ecosystem](https://www.soldered.com/easyC). 
+RF433 Transmitter Receiver [easyC ecosystem](https://www.soldered.com/easyC). 
 
 ### Repository Contents
 - **/src** - source files for the library (.h & .cpp)
@@ -19,9 +19,9 @@ You can find hardware design for this board in NAZIV PROIZVODA hardware reposito
 
 ### Documentation
 
-Access Arduino library documentation [here](https://e-radionicacom.github.io/Soldered-Generic-Arduino-Library/).
+Access Arduino library documentation [here](https://e-radionicacom.github.io/Soldered-RF433-Arduino-Library/).
 
-- Tutorial for using the NAZIV PROIZVODA board
+- Tutorial for using the RF433 Transmitter Receiver board
 - Installing an Arduino library
 
 ### About Soldered
@@ -37,7 +37,7 @@ At Soldered, we design and manufacture a wide selection of electronic products t
 
 ### Original source
 ​
-This library is possible thanks to original [arduino-mcp23017](https://github.com/blemasle/arduino-mcp23017) library. Thank you, blemasle. 
+This library is possible thanks to original [arduin-RadioHead](http://www.airspayce.com/mikem/arduino/RadioHead/) library. Thank you, Airspace. 
 
 
 ### Open-source license

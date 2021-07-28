@@ -5,26 +5,23 @@
  * @brief       Header file for sensor specific code.
  *
  *
- * @copyright GNU General Public License v3.0
- * @authors     @ soldered.com
+ * @copyright   GNU General Public License v3.0
+ * @authors     @ soldered.com, Robert Peric
  ***************************************************/
 
-#ifndef __SENSOR__
-#define __SENSOR__
+#ifndef _RF433_H
+#define _RF433_H
 
 #include "Arduino.h"
-#include "libs/Generic-easyC/easyC.h"
+#include "libs/RadioHead/RH_ASK.h"
 
-class Sensor : public EasyC
+class RF433 : public RH_ASK
 {
   public:
-    Sensor(int _pin);
+    RF433();
 
   protected:
-    void initializeNative();
-
   private:
-    int pin;
 };
 
 #endif

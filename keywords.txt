@@ -5,12 +5,16 @@
 ##################################################
 # Datatypes (KEYWORD1)
 ##################################################
-
+RF433           KEYWORD1
 ##################################################
 # Methods and Functions (KEYWORD2)
 ##################################################
 
-begin	KEYWORD2
+init        	KEYWORD2
+send            KEYWORD2
+waitPacketSent  KEYWORD2
+
+recv            KEYWORD2
 
 ##################################################
 # Constants (LITERAL1)
