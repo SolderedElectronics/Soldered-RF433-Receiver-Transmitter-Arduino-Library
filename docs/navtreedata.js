@@ -24,27 +24,44 @@
 */
 var NAVTREE =
 [
-  [ "16x2 easyC LCD Library", "index.html", [
-    [ "NAZIV PROIZVODA Arduino library", "index.html", null ],
+  [ "Soldered RF433 Arduino Library", "index.html", [
+    [ "RF433 Transmitter Receiver Arduino library", "index.html", "index" ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
       [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
       [ "Class Members", "functions.html", [
-        [ "All", "functions.html", null ],
-        [ "Functions", "functions_func.html", null ],
-        [ "Variables", "functions_vars.html", null ]
+        [ "All", "functions.html", "functions_dup" ],
+        [ "Functions", "functions_func.html", "functions_func" ],
+        [ "Variables", "functions_vars.html", "functions_vars" ],
+        [ "Enumerations", "functions_enum.html", null ],
+        [ "Enumerator", "functions_eval.html", null ]
       ] ]
     ] ],
     [ "Files", "files.html", [
-      [ "File List", "files.html", "files_dup" ]
-    ] ]
+      [ "File List", "files.html", "files_dup" ],
+      [ "File Members", "globals.html", [
+        [ "All", "globals.html", null ],
+        [ "Functions", "globals_func.html", null ],
+        [ "Variables", "globals_vars.html", null ],
+        [ "Typedefs", "globals_type.html", null ],
+        [ "Enumerations", "globals_enum.html", null ],
+        [ "Enumerator", "globals_eval.html", null ]
+      ] ]
+    ] ],
+    [ "Examples", "examples.html", "examples" ]
   ] ]
 ];
 
 var NAVTREEINDEX =
 [
-"_generic-easy_c-_s_o_l_d_e_r_e_d_8cpp.html"
+"_hardware_s_p_i_8cpp.html",
+"class_r_h___a_s_k.html#a19a94a309f37466fb63879bdb9e0edb6",
+"class_r_h___n_r_f51.html#a0b1b138ba4ec37afcb9b2631f4f4d760",
+"class_r_h___r_f69.html#a3dc02a05e8f2ec61210d62fe53673ca9",
+"class_r_h_generic_driver.html#a7c96558708f18937bc2fa7341f217937",
+"functions_s.html",
+"struct_r_h___r_f24_1_1_modem_config.html#aab018cdfd355d6fc46b59aa04c72fc78"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

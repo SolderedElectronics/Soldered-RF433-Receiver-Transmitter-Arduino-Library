@@ -1,4 +1,25 @@
 var searchData=
 [
-  ['defaultaddress_3',['defaultAddress',['../class_easy_c.html#a9052ae674b3553bbb19283278299f395',1,'EasyC']]]
+  ['baudrate_137',['BaudRate',['../class_r_h___e32.html#a9a0cb604071d8b4a8fbd879379bf4568',1,'RH_E32']]],
+  ['baudrate115200_138',['BaudRate115200',['../class_r_h___e32.html#a9a0cb604071d8b4a8fbd879379bf4568abcb3183073309682d7479fdf3046c72c',1,'RH_E32']]],
+  ['baudrate1200_139',['BaudRate1200',['../class_r_h___e32.html#a9a0cb604071d8b4a8fbd879379bf4568a688777d1be4707c5f917bdff2f064466',1,'RH_E32']]],
+  ['baudrate19200_140',['BaudRate19200',['../class_r_h___e32.html#a9a0cb604071d8b4a8fbd879379bf4568ad241f6bbbe718770d7ff52074d8f818d',1,'RH_E32']]],
+  ['baudrate2400_141',['BaudRate2400',['../class_r_h___e32.html#a9a0cb604071d8b4a8fbd879379bf4568ab6d4a13b9f0f40e8787cb6bf4b8d3477',1,'RH_E32']]],
+  ['baudrate38400_142',['BaudRate38400',['../class_r_h___e32.html#a9a0cb604071d8b4a8fbd879379bf4568ae4e98f343d309a9f047765eccad4a4c5',1,'RH_E32']]],
+  ['baudrate4800_143',['BaudRate4800',['../class_r_h___e32.html#a9a0cb604071d8b4a8fbd879379bf4568aa4e5b7fc905ebd342b9852e2023ec553',1,'RH_E32']]],
+  ['baudrate57600_144',['BaudRate57600',['../class_r_h___e32.html#a9a0cb604071d8b4a8fbd879379bf4568aaaa7527e4b10ef237a712348f88db386',1,'RH_E32']]],
+  ['baudrate9600_145',['BaudRate9600',['../class_r_h___e32.html#a9a0cb604071d8b4a8fbd879379bf4568aa5488351e28e002b6862c445f5b2c74e',1,'RH_E32']]],
+  ['begin_146',['begin',['../class_serial_simulator.html#ad02476735003ae14b468fbdfc8252253',1,'SerialSimulator::begin()'],['../class_serial_u_s_b_class.html#a2b602ba613d88958b13a71bda675e26e',1,'SerialUSBClass::begin()'],['../class_hardware_s_p_i.html#a85e1b76321e8bfe6622e0cd733180985',1,'HardwareSPI::begin()'],['../class_hardware_serial.html#a288e8a54617bc6c3ebbcaa4ef8dc9efa',1,'HardwareSerial::begin()'],['../class_serial_simulator.html#ad02476735003ae14b468fbdfc8252253',1,'SerialSimulator::begin()'],['../class_s_p_i_class.html#add46494a8675d509cb7df9a47011cbd3',1,'SPIClass::begin(uint16_t, uint8_t, uint8_t)'],['../class_s_p_i_class.html#a4a2646959a242f6af423b04734c003f0',1,'SPIClass::begin()'],['../class_r_h_software_s_p_i.html#abee0eb2355d6572eb63464ffb3f348a2',1,'RHSoftwareSPI::begin()'],['../class_r_h_hardware_s_p_i.html#a15fe95978c03090d7a496aba577137e9',1,'RHHardwareSPI::begin()'],['../class_r_h_hardware_s_p_i.html#a15fe95978c03090d7a496aba577137e9',1,'RHHardwareSPI::begin()'],['../class_r_h_generic_s_p_i.html#ab2e3de040be2bd97400a993af114d26a',1,'RHGenericSPI::begin()'],['../class_easy_c.html#a9e71467da6f38cbe47b10e96694a4f91',1,'EasyC::begin(uint8_t _address)'],['../class_easy_c.html#a1b5a82b8a59daea79de76e496457e176',1,'EasyC::begin()'],['../class_hardware_serial.html#a3ef4ce11e299694002fde29ee321a2d7',1,'HardwareSerial::begin()']]],
+  ['begindone_147',['beginDone',['../class_easy_c.html#a2f55de657a84e73edda23dae91d30436',1,'EasyC']]],
+  ['begintransaction_148',['beginTransaction',['../class_r_h_generic_s_p_i.html#ae5524b6770c879a44b2452018ac6331e',1,'RHGenericSPI::beginTransaction()'],['../class_r_h_hardware_s_p_i.html#a54572e0a70c1f343f543556e256b422d',1,'RHHardwareSPI::beginTransaction()']]],
+  ['bitorder_149',['BitOrder',['../class_r_h_generic_s_p_i.html#a5ab2180e32e8877ceed6e3835ede3380',1,'RHGenericSPI']]],
+  ['bitorderlsbfirst_150',['BitOrderLSBFirst',['../class_r_h_generic_s_p_i.html#a5ab2180e32e8877ceed6e3835ede3380abf5b887c3287ce242c4aea8ae1524a5d',1,'RHGenericSPI']]],
+  ['bitordermsbfirst_151',['BitOrderMSBFirst',['../class_r_h_generic_s_p_i.html#a5ab2180e32e8877ceed6e3835ede3380a6b29dd73167fc50e899b9c5a43993c6c',1,'RHGenericSPI']]],
+  ['blocksize_152',['blockSize',['../struct_r_h_encrypted_driver_1_1_cipher_blocks.html#a0064943af4e8acf5bacd6e9ed406efa5',1,'RHEncryptedDriver::CipherBlocks']]],
+  ['brval_153',['BRVAL',['../struct_r_h___m_r_f89_1_1_modem_config.html#a3e81c4c7ce58d0648ed5a19855e9465f',1,'RH_MRF89::ModemConfig']]],
+  ['bw125cr45sf128_154',['Bw125Cr45Sf128',['../class_r_h___r_f95.html#ab9605810c11c025758ea91b2813666e3a36c80b8c976c6209e9c929669a0ab320',1,'RH_RF95']]],
+  ['bw125cr48sf4096_155',['Bw125Cr48Sf4096',['../class_r_h___r_f95.html#ab9605810c11c025758ea91b2813666e3a241b28dcbb17f8a86e3f8edd03c51b21',1,'RH_RF95']]],
+  ['bw31_5f25cr48sf512_156',['Bw31_25Cr48Sf512',['../class_r_h___r_f95.html#ab9605810c11c025758ea91b2813666e3a78f89711f429422d920dc22dbc278548',1,'RH_RF95']]],
+  ['bw500cr45sf128_157',['Bw500Cr45Sf128',['../class_r_h___r_f95.html#ab9605810c11c025758ea91b2813666e3a1759bc33893056f011b81e62e5c8af5f',1,'RH_RF95']]],
+  ['byte_158',['byte',['../_ras_pi_8h.html#a0c8186d9b9b7880309c27230bbb5e69d',1,'RasPi.h']]]
 ];
