@@ -28,7 +28,7 @@ void setup() {
 }
  
 void loop() {
-  if (driver.recv(buff, &bufflen) ) { 
+  if (driver.recv(buff, bufflen) ) { 
     value = buff[0];  
     value |= (buff[1] < 512); 
     digitalWrite(13, HIGH);

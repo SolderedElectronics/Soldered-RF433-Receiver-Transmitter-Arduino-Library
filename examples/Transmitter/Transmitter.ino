@@ -30,7 +30,7 @@ void loop() {
   value = analogRead(0); 
   buff[0] = value; 
   buff[1] = (value >> 8); 
-  driver.send(buff, &bufflen); 
+  driver.send(buff, bufflen); 
   driver.waitPacketSent(); 
   delay(200);
 }
