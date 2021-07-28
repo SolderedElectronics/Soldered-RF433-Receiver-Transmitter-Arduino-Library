@@ -7,7 +7,7 @@
  *
  *
  * @authors     @ soldered.com, Robert Peric
- * @link        www.solde.red/333067
+ * @link        www.solde.red/101224
  ***************************************************/
 
 #include "RF433-SOLDERED.h"
