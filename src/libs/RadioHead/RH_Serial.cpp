@@ -8,7 +8,7 @@
 #elif defined (ARDUINO_ARCH_STM32F4)
  #include <libmaple/HardwareSerial.h>
 #else
- #include "HardwareSerial.h"
+ #include "RHutil/HardwareSerial.h"
 #endif
 #include "RHCRC.h"
 
