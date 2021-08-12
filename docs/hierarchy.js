@@ -2,7 +2,6 @@ var hierarchy =
 [
     [ "RHEncryptedDriver::CipherBlocks", "struct_r_h_encrypted_driver_1_1_cipher_blocks.html", null ],
     [ "RH_RF24::CommandInfo", "struct_r_h___r_f24_1_1_command_info.html", null ],
-    [ "EasyC", "class_easy_c.html", null ],
     [ "GPIOPin", "struct_g_p_i_o_pin.html", null ],
     [ "HardwareSerial", "class_hardware_serial.html", null ],
     [ "HardwareSPI", "class_hardware_s_p_i.html", null ],

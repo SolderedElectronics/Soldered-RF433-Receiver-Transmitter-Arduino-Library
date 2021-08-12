@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['easyc_2ecpp_932',['easyC.cpp',['../easy_c_8cpp.html',1,'']]],
-  ['easyc_2eh_933',['easyC.h',['../easy_c_8h.html',1,'']]]
+  ['hardwarespi_2ecpp_918',['HardwareSPI.cpp',['../_hardware_s_p_i_8cpp.html',1,'']]],
+  ['hardwarespi_2eh_919',['HardwareSPI.h',['../_hardware_s_p_i_8h.html',1,'']]]
 ];

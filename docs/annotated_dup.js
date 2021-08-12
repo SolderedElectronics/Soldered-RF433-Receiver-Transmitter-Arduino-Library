@@ -6,7 +6,6 @@ var annotated_dup =
     [ "About Soldered", "index.html#autotoc_md4", null ],
     [ "Original source", "index.html#autotoc_md5", null ],
     [ "Open-source license", "index.html#autotoc_md6", null ],
-    [ "EasyC", "class_easy_c.html", "class_easy_c" ],
     [ "GPIOPin", "struct_g_p_i_o_pin.html", "struct_g_p_i_o_pin" ],
     [ "HardwareSerial", "class_hardware_serial.html", "class_hardware_serial" ],
     [ "HardwareSPI", "class_hardware_s_p_i.html", "class_hardware_s_p_i" ],

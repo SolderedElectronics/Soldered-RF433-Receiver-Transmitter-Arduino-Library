@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['gpiopin_885',['GPIOPin',['../struct_g_p_i_o_pin.html',1,'']]]
+  ['hardwareserial_872',['HardwareSerial',['../class_hardware_serial.html',1,'']]],
+  ['hardwarespi_873',['HardwareSPI',['../class_hardware_s_p_i.html',1,'']]]
 ];

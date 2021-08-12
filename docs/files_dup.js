@@ -1,10 +1,6 @@
 var files_dup =
 [
     [ "atomic.h", "atomic_8h.html", "atomic_8h" ],
-    [ "easyC.cpp", "easy_c_8cpp.html", null ],
-    [ "easyC.h", "easy_c_8h.html", [
-      [ "EasyC", "class_easy_c.html", "class_easy_c" ]
-    ] ],
     [ "RHutil/HardwareSerial.cpp", "_r_hutil_2_hardware_serial_8cpp.html", null ],
     [ "STM32ArduinoCompat/HardwareSerial.cpp", "_s_t_m32_arduino_compat_2_hardware_serial_8cpp.html", "_s_t_m32_arduino_compat_2_hardware_serial_8cpp" ],
     [ "RHutil/HardwareSerial.h", "_r_hutil_2_hardware_serial_8h.html", [
