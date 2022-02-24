@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['next_5fhop_1412',['next_hop',['../struct_r_h_router_1_1_routing_table_entry.html#a58d71a73087fbdaf8002d3de9dd70661',1,'RHRouter::RoutingTableEntry']]]
+  ['next_5fhop_0',['next_hop',['../struct_r_h_router_1_1_routing_table_entry.html#a58d71a73087fbdaf8002d3de9dd70661',1,'RHRouter::RoutingTableEntry']]]
 ];
