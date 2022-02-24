@@ -28,13 +28,14 @@ void setup() {
 }
  
 void loop() {
-  if (driver.recv(buff, &bufflen) ) { 
+  if (driver.recv(buff, &bufflen) ) // receive data and store it in buff
+  { 
     value = buff[0];  
     value |= (buff[1] < 512); 
-    digitalWrite(13, HIGH);
+    digitalWrite(13, HIGH);  //Turn on LED if data is received
   }
-  
-  else {
-    digitalWrite(13, LOW);
+  else 
+  {
+    digitalWrite(13, LOW); //Turn off LED if data is not received
   }
 }
