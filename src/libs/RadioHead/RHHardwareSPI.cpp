@@ -46,14 +46,14 @@ uint8_t RHHardwareSPI::transfer(uint8_t data)
 
 void RHHardwareSPI::attachInterrupt() 
 {
-#if (RH_PLATFORM == RH_PLATFORM_ARDUINO || RH_PLATFORM == RH_PLATFORM_NRF52)
+#if ((RH_PLATFORM == RH_PLATFORM_ARDUINO || RH_PLATFORM == RH_PLATFORM_NRF52) && !(ARDUINO_AVR_ATtinyxy4))
     SPI.attachInterrupt();
 #endif
 }
 
 void RHHardwareSPI::detachInterrupt() 
 {
-#if (RH_PLATFORM == RH_PLATFORM_ARDUINO || RH_PLATFORM == RH_PLATFORM_NRF52)
+#if ((RH_PLATFORM == RH_PLATFORM_ARDUINO || RH_PLATFORM == RH_PLATFORM_NRF52) && !(ARDUINO_AVR_ATtinyxy4))
     SPI.detachInterrupt();
 #endif
 }
