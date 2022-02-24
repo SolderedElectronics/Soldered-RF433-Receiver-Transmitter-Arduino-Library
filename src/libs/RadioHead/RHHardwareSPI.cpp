@@ -47,7 +47,7 @@ uint8_t RHHardwareSPI::transfer(uint8_t data)
 void RHHardwareSPI::attachInterrupt() 
 {
 #if (RH_PLATFORM == RH_PLATFORM_ARDUINO || RH_PLATFORM == RH_PLATFORM_NRF52)
-#ifndef ARDUINO_AVR_ATTINYXY4
+#ifnef ARDUINO_AVR_ATTINY804
     SPI.attachInterrupt();
 #endif
 #endif
@@ -56,7 +56,7 @@ void RHHardwareSPI::attachInterrupt()
 void RHHardwareSPI::detachInterrupt() 
 {
 #if (RH_PLATFORM == RH_PLATFORM_ARDUINO || RH_PLATFORM == RH_PLATFORM_NRF52) 
-#ifndef ARDUINO_AVR_ATTINYXY4
+#ifnef ARDUINO_AVR_ATTINY804
     SPI.detachInterrupt();
 #endif
 #endif
